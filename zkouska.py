@@ -7,8 +7,8 @@ def opakuj(x):
         print(i)
 print(secti(5,10))
 
-def vynasob(a, b):
+def vynasob(a):
     opakuj(a)
     for i in len(a):
-        c = a * b 
+        c = a * 5 
     return c 
