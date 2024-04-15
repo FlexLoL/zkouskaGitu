@@ -5,4 +5,6 @@ def secti(a, b):
 print(secti(5,10))
 
 def vynasob(a, b):
-    return a * b 
+    for i in len(a):
+        c = a * b 
+    return c 
